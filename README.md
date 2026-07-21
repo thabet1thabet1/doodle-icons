@@ -1,4 +1,4 @@
-A repo that has a collection of high quality doodle style PNG icons for macOS customization
+## A repo that has a collection of high quality doodle style PNG icons for macOS customization
 
 Feel free to use these icons to personalize your Mac however you like.
 
