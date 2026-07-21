@@ -1,19 +1,17 @@
-# 🎨 Doodle Icons
-
-A collection of high-quality doodle-style PNG icons for macOS customization.
+A repo that has a collection of high quality doodle style PNG icons for macOS customization
 
 Feel free to use these icons to personalize your Mac however you like.
 
-🤝 **This is an open community project.**  
+**This is an open community project.**  
 Everyone is welcome to contribute! If you've created your own doodle-style icons or want to improve the collection, feel free to open a Pull Request. Let's build the largest doodle icon collection together.
 
-## 📂 Contents
+## Contents
 
 - App icons
 - System icons
 - More icons will be added over time
 
-## 📖 Tutorials
+## Tutorials
 
 ### Customize App Icons
 
